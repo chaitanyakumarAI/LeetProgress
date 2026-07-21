@@ -9,10 +9,10 @@ class Solution:
             else:
                 res.append(nums1.pop(0))
             i+=1
-            if i==m+n:
+            if i==(m+n)//2+1:
                 if (m+n)%2==1:
-                    return res[(m+n)//2]
-                return (res[(m+n)//2]+res[((m+n)//2)-1])/2
+                    return res[-1]
+                return (res[-1]+res[-2])/2
         if nums1==[]:
             res= res+nums2
         else:
