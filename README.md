@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
