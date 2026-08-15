@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0088-merge-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1922-count-good-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
