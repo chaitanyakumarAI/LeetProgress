@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Database
+|  |
+| ------- |
+| [1407-top-travellers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1407-top-travellers) |
 <!---LeetCode Topics End-->
