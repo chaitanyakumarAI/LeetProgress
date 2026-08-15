@@ -5,10 +5,9 @@ class Solution:
             return 0
         ma=[0]*(n-1)
         m=float('inf')
+        mx=0
         for i in range(n-1):
             m=min(m,prices[i])
             ma[i]=m
-        mx=0
-        for i in range(1,n):
-            mx=max(prices[i]-ma[i-1],mx)
+            mx=max(prices[i+1]-ma[i],mx)
         return mx
