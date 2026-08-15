@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1407-top-travellers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1407-top-travellers) |
+| [1907-count-salary-categories](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1907-count-salary-categories) |
 ## Dynamic Programming
 |  |
 | ------- |
