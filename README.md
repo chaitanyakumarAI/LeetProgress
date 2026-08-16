@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0392-is-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -58,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
