@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0511-game-play-analysis-i) |
 | [1407-top-travellers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1407-top-travellers) |
 | [1907-count-salary-categories](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1907-count-salary-categories) |
 ## Dynamic Programming
