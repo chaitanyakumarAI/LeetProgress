@@ -77,4 +77,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
