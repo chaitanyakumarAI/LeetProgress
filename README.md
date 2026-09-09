@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0560-subarray-sum-equals-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3471-find-the-largest-almost-missing-integer) |
