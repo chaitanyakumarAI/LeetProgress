@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0724-find-pivot-index) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2367-number-of-arithmetic-triplets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3904-smallest-stable-index-ii) |
 ## String
