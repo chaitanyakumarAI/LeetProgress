@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0560-subarray-sum-equals-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2367-number-of-arithmetic-triplets) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0392-is-subsequence) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0189-rotate-array) |
 | [1922-count-good-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1922-count-good-numbers) |
 | [3871-count-commas-in-range-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3875-construct-uniform-parity-array-i) |
