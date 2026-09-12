@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2367-number-of-arithmetic-triplets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2367-number-of-arithmetic-triplets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
@@ -145,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2367-number-of-arithmetic-triplets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
