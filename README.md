@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0633-sum-of-square-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0633-sum-of-square-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0836-rectangle-overlap) |
 | [1922-count-good-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1922-count-good-numbers) |
 | [3871-count-commas-in-range-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3871-count-commas-in-range-ii) |
