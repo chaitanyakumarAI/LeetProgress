@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0125-valid-palindrome) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0072-edit-distance) |
@@ -189,5 +191,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
