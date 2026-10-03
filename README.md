@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0242-valid-anagram) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
