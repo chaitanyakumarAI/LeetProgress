@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0724-find-pivot-index) |
+| [1833-maximum-ice-cream-bars](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2367-number-of-arithmetic-triplets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0242-valid-anagram) |
+| [1833-maximum-ice-cream-bars](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1833-maximum-ice-cream-bars) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1833-maximum-ice-cream-bars](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0022-generate-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
