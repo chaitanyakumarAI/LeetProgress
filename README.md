@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1021-remove-outermost-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
