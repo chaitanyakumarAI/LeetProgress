@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Backtracking
 |  |
 | ------- |
