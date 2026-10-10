@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0724-find-pivot-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2367-number-of-arithmetic-triplets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0633-sum-of-square-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0242-valid-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1833-maximum-ice-cream-bars) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1833-maximum-ice-cream-bars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
