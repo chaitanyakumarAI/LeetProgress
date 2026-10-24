@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0836-rectangle-overlap) |
 | [1922-count-good-numbers](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2409-count-days-spent-together) |
 | [3871-count-commas-in-range-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
