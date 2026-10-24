@@ -26,7 +26,4 @@ class Solution:
         for i in range(lbm-1):
             lbv+=dpm[i]
         lbv+=lbd
-        for i in range(min(aav,abv),max(lav,lbv)+1):
-            if aav<=i<=lav and abv<=i<=lbv:
-                count+=1
-        return count
+        return max(0,min(lav,lbv)-max(aav,abv)+1)
