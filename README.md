@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0392-is-subsequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0322-coin-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
