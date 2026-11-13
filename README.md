@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0560-subarray-sum-equals-k) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0392-is-subsequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -250,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/2333-minimum-sum-of-squared-difference) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/chaitanyakumarAI/LeetProgress/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
